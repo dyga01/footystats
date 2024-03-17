@@ -1,0 +1,2 @@
+database.sqlite filter=lfs diff=lfs merge=lfs -text
+tfenv/lib/python3.11/site-packages/tensorflow/libtensorflow_cc.2.dylib filter=lfs diff=lfs merge=lfs -text
